@@ -1,8 +1,7 @@
-# PHASTEx
+# <img src="PHAST_4.jpg" style="width: 64px"/> PHASTEx
 
-<img src="PHAST_4.png" style="width: 32px;"/>
 
-## What is PHASTEx?
+## Synopsis
 A large percentage of total energy consumed in an industrial plant is used for process heating equipment such as furnaces, heaters, ovens, kilns, and boilers. This equipment uses a variety of fuels to supply heat required to raise temperatures of or induce phase change (melting, vaporizing) in a variety of materials. It is possible to reduce the energy use of process heating equipment by conducting an energy audit or assessment that identifies areas of energy use or losses and take actions to reduce these losses, resulting in a reduction in overall energy use.
 
 The Process Heating Assessment and Survey Tool, commonly known as **PHAST**, was developed to conduct an energy assessment or audit of the heating equipment used by many industries. The tool has been used in several industrial plants in a number of countries to identify energy use distribution and analysis to identify and estimate energy losses, as well as to analyze potential energy savings by applying commonly recommended energy savings measures. The Excel version of **PHAST**, known as **PHASTEx**, is specifically designed to enhance the capabilities of **PHAST**. It can be used where it is necessary to consider multicomponent charge-loads and account for a number of different sections for various areas of energy loss.
