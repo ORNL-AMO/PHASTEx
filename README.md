@@ -1,4 +1,4 @@
-# <img src="PHAST_4.jpg" style="width: 64px"/> PHASTEx
+# <img src="PHAST_4.jpg" width="64px" height="64px"/> PHASTEx
 
 
 ## Synopsis
