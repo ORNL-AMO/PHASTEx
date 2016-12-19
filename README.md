@@ -1,6 +1,6 @@
 # PHASTEx
 
-![PHASTEx Logo] (https://github.com/ORNL-AMO/PHASTEx/blob/master/PHAST_4.png)
+<img src="PHAST_4.png" style="width: 32px;"/>
 
 ## What is PHASTEx?
 A large percentage of total energy consumed in an industrial plant is used for process heating equipment such as furnaces, heaters, ovens, kilns, and boilers. This equipment uses a variety of fuels to supply heat required to raise temperatures of or induce phase change (melting, vaporizing) in a variety of materials. It is possible to reduce the energy use of process heating equipment by conducting an energy audit or assessment that identifies areas of energy use or losses and take actions to reduce these losses, resulting in a reduction in overall energy use.
